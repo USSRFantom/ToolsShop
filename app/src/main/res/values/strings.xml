@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Tools Shop</string>
+    <string name="logo">Логотип магазина инструментов</string>
+    <string name="logo_drill">Логотип дрели</string>
+    <string-array name="tools">
+
+        <item>Дрели</item>
+        <item>Перфораторы</item>
+        <item>Болгарки</item>
+    </string-array>
+
+    <string name="drill_interskol_title">Дрель интерс</string>
+    <string name="drill_makita_title">Дрель макита</string>
+    <string name="drill_devolt_title">Дрель деволт</string>
+
+    <string name="drill_interskol_info">Хорошая дрель, мало жрет, можно ездить, варить, парить, играть, в общем счастье</string>
+    <string name="drill_makita_info">Хорошая дрель, мало жрет, можно ездить, варить, парить, играть, в общем счастье</string>
+    <string name="drill_devolt_info">Хорошая дрель, мало жрет, можно ездить, варить, парить, играть, в общем счастье</string>
+
 </resources>
